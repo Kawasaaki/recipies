@@ -1,0 +1,28 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+ul{
+    background-color: rgb(175, 231, 231);;
+    width: 700px;
+    border-radius: 10px;
+    border: 3px solid purple;
+}
+
+h1{
+    color: black;
+}
+
+.nav-bar{
+    background-color: gray;
+    padding: 50px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    margin: 15px;
+    font-size: 25px;
+}
